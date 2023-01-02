@@ -1,4 +1,4 @@
-# BlogApi (ASP.NET MVC WebAPI)
+# BlogApi (ASP.NET Core MVC WebAPI)
 <h2>Задание (back-end)</h2>
 <b>Задание:</b>
 <p>Реализовать блог с возможностью комментировать и лайкать посты. Пользователь выбирает
